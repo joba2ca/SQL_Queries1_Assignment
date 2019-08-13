@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.tuberlin.dima.dbpra.exercises.PartialSQL1ExerciseTest
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.036 sec
