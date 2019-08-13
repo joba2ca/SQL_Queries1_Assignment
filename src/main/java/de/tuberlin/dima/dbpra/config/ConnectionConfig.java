@@ -12,7 +12,7 @@ public class ConnectionConfig {
 	// User Name für die Verbindung mit deiner Datenbank
 	public final static String DB2_USER = "";
 	// Passwort für die Verbindung mit deiner Datenbank
-	public final static String DB2_PW = "cpVOqnVXR5kzokouXSJF";
+	public final static String DB2_PW = "";
 	// Name deiner Datenbank
 	public final static String DB2_DB = "";
 }
