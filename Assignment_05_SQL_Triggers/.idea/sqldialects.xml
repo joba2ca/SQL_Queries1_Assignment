@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/de/tuberlin/dima/dbpra/exercises/SQL3/SQL3Query08.sql" dialect="DB2" />
+    <file url="PROJECT" dialect="DB2" />
+  </component>
+</project>
